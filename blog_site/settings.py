@@ -87,7 +87,7 @@ DATABASES = {
         "ENGINE": "django.contrib.gis.db.backends.postgis",
         "NAME": "blog_site",
         "USER": "postgres",
-        "PASSWORD": "sqy14268",
+        "PASSWORD": "pass",
         "HOST": "localhost",
         "PORT": "5432",
     }
